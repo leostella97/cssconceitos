@@ -2,9 +2,13 @@
 
 <ul>
 	<a href="">Fundamentos do CSS</a>
+	<li></li>
 	<a href="">Estilização Básica com CSS</a>
+	<li></li>
 	<a href="">Cores</a>
+	<li></li>
 	<a href="">Imagens</a>
+	<li></li>
 	<a href="">Bordas</a>
 
 </ul>
